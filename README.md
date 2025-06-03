@@ -4,7 +4,6 @@
  - 熟悉SolidWorks建模与运动算例，AutoCAD，3D打印，ANSYS仿真
  - 比较熟悉嵌入式Linux的开发和项目部署
 
-(tips: 将你的个人介绍和档案放置在此处)
 ## - ⭐ GitHub Star
 
 ![ouyanglingle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouyanglingle&show_icons=true&theme=moltack)
