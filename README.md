@@ -12,3 +12,5 @@
 ## - 📚 GitHub Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ouyanglingle&repo=MyController&show_icons=true&theme=moltack)](https://github.com/ouyanglingle/MyController)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ouyanglingle&repo=Astar-for-MCU&show_icons=true&theme=moltack)](https://github.com/ouyanglingle/Astar-for-MCU)
