@@ -4,7 +4,7 @@
  - 熟悉SolidWorks建模与运动算例，AutoCAD，3D打印，ANSYS仿真
  - 比较熟悉嵌入式Linux的开发和项目部署
  - 比较熟悉PCB绘制，使用嘉立创EDA
- - 会使用RUST，能够使用RUST进行简单的嵌入式开发
+ - 能够使用RUST进行STM32嵌入式开发
 
 ## - ⭐ GitHub Star
 
